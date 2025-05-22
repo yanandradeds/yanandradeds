@@ -1,5 +1,7 @@
 ### Ola! :wave:  
 
-Sou Yan Andrade, desenvolvedor back-end Java. Possuo conhecimento em desenvolvimento de API's REST com Spring Boot, para persistencia de dados atualmente estou usando MySQL, mantendo 
-interoperabilidade em diferentes sistemas eu integrei minha app com Docker.
-Usando Spring serurity e JWT implementei sistema de autenticação e autorização para acesso na minha API.
+Sou Yan Andrade, desenvolvedor back-end Java. Possuo conhecimento com API's REST, Spring Boot, Spring Security, JWT, MySQL, teste unitários e de integração, Docker, entre outros na stack do Java. 
+Além de ter um certa experiência com desenvolvimento Android.
+
+
+Sou tranquilo e de facil convívio, gosto de tecnologia, games e esportes. Busco sempre me mantar atualizado e aprender novas ferramentas.
