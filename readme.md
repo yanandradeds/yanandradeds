@@ -1,4 +1,5 @@
 ### Ola! :wave:  
 
-Sou Yan programo em Kotlin/Java, estou começando na area de desenvolvimento de sistemas e possuo certos conhecimentos na stack Android como tipos de Layout, LifeCycle,
-POO, MVVM, SQLite/Room e Rest Api's, o caminho ainda é longo mas estou buscando aprender cada vez mais.
+Sou Yan Andrade, desenvolvedor back-end Java. Possuo conhecimento em desenvolvimento de API's REST com Spring Boot, para persistencia de dados atualmente estou usando MySQL, mantendo 
+interoperabilidade em diferentes sistemas eu integrei minha app com Docker.
+Usando Spring serurity e JWT implementei sistema de autenticação e autorização para acesso na minha API.
